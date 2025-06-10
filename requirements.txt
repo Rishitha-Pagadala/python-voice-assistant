@@ -1,0 +1,9 @@
+streamlit
+requests
+speechrecognition
+pyjokes
+playsound
+edge-tts
+yt-dlp
+edge_tts
+
